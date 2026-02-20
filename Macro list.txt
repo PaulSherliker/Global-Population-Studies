@@ -1,0 +1,5 @@
+Macro list:
+
+mortcalc.sas
+
+This calculates absolute mortality rates in a study by age group and one or more other variables.
